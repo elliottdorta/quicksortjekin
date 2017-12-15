@@ -13,7 +13,7 @@ public class Quicksort  {
 
 		// Check for empty or null array
 
-		if (values ==null || values.length==0){
+		if (values ==null || values.length==1){
 
 			return;
 

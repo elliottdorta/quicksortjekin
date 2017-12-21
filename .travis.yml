@@ -1,4 +1,4 @@
-language: java
+language: jav
 sudo: false
 dist: trusty
 install: true

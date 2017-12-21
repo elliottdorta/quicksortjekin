@@ -18,9 +18,6 @@ cache:
  directories:
    - '$HOME/.m2/repository'
    - '$HOME/.sonar/cache'
-#notifications:
-#  email: 
-#  recipients:
-#3- dcastell@ull.es
+
 on_success: always
 on_failure: always
